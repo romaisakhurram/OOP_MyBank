@@ -1,0 +1,21 @@
+{
+  "name": "@romaisakhurram/oop_mybank",
+  "version": "1.0.0",
+  "description": "it is a object oriented program",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "romaisa",
+  "license": "MIT",
+  "dependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.11",
+    "inquirer": "^10.0.1"
+  }
+}
